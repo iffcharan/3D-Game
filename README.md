@@ -1,4 +1,3 @@
-
 # 3D-Game
 
 This repository contains assets and resources for a Unity-based 3D Game.  
@@ -10,6 +9,7 @@ It includes:
 
 The project is designed to be imported into Unity and can be used as a base for building interactive 3D games.
 
+---
 
 ## 📥 How to Import Assets into Unity
 
@@ -17,7 +17,7 @@ The project is designed to be imported into Unity and can be used as a base for 
 1. Clone this repository:
    ```bash
    git clone https://github.com/iffcharan/3D-Game.git
-````
+   
 2. Open **Unity Hub**.
 3. Click **Add Project from Disk** and select the cloned folder.
    Unity will recognize it as a project and open it.
@@ -30,6 +30,8 @@ The project is designed to be imported into Unity and can be used as a base for 
 4. Copy the folders you want (`Animations/`, `characters/`, `environments/`) into the `Assets/` folder.
 5. Return to Unity Editor — the assets will automatically be imported and ready to use.
 
+---
+
 ## ▶️ Using the Assets
 
 * **Characters** → Drag prefabs/models from the `characters/` folder into your scene.
@@ -38,6 +40,7 @@ The project is designed to be imported into Unity and can be used as a base for 
 
 You can now press **Play** in Unity to test and use the assets in your game scenes.
 
+---
 
 ## 🛠️ Software / Tools
 
@@ -45,6 +48,7 @@ You can now press **Play** in Unity to test and use the assets in your game scen
 * [Mixamo](https://www.mixamo.com/) → For rigging characters and generating animations.
 * [Unity](https://unity.com/) → Game engine used to assemble assets, build levels, and test gameplay.
 
+---
 
 ## 📚 References
 
