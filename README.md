@@ -1,7 +1,4 @@
-Got it 👍
-Here’s the exact **Markdown code** you can copy-paste into your `README.md` file:
 
-````markdown
 # 3D-Game
 
 This repository contains assets and resources for a Unity-based 3D Game.  
@@ -13,7 +10,6 @@ It includes:
 
 The project is designed to be imported into Unity and can be used as a base for building interactive 3D games.
 
----
 
 ## 📥 How to Import Assets into Unity
 
@@ -22,7 +18,6 @@ The project is designed to be imported into Unity and can be used as a base for 
    ```bash
    git clone https://github.com/iffcharan/3D-Game.git
 ````
-
 2. Open **Unity Hub**.
 3. Click **Add Project from Disk** and select the cloned folder.
    Unity will recognize it as a project and open it.
