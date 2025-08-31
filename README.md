@@ -54,7 +54,7 @@ You can now press **Play** in Unity to test and use the assets in your game scen
 
 Here are some useful tutorials and guides related to this project:
 
-* [Unity 3D Game Development Basics](https://youtu.be/x4mySebugl0)
+* [Baking textures](https://youtu.be/x4mySebugl0)
 * [Blender to Unity Workflow](https://youtu.be/5UZ-niuRWz8)
 * [Mixamo to Unity Import Guide](https://youtu.be/w6lc8svzBms)
-* [Unity 3D Game Development Playlist](https://www.youtube.com/playlist?list=PLZ1b66Z1KFKhOdGnBowZCdViPjvwUZ3Jx)
+* [Unity 3D Visual Story Game Development Playlist](https://www.youtube.com/playlist?list=PLZ1b66Z1KFKhOdGnBowZCdViPjvwUZ3Jx)
