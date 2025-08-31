@@ -17,3 +17,7 @@ The project is designed to be imported into Unity and can be used as a base for 
 1. Clone this repository:
    ```bash
    git clone https://github.com/iffcharan/3D-Game.git
+## Software/Tools
+->Blender
+->Mixamo
+## References
