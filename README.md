@@ -58,3 +58,9 @@ Here are some useful tutorials and guides related to this project:
 * [Blender to Unity Workflow](https://youtu.be/5UZ-niuRWz8)
 * [Mixamo to Unity Import Guide](https://youtu.be/w6lc8svzBms)
 * [Unity 3D Visual Story Game Development Playlist](https://www.youtube.com/playlist?list=PLZ1b66Z1KFKhOdGnBowZCdViPjvwUZ3Jx)
+
+## 🙏 Acknowledgements & Attributions
+
+This project was developed as part of an institute assignment.  
+Some assets and learning resources used in this project were taken from external sources.  
+Full credit goes to the original creators.
